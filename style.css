@@ -1,0 +1,33 @@
+.wrapper{
+    width: 1280px;
+    height: 3595px;
+    border: 1px solid ;
+    margin: 0 auto;
+    background-color: #EBE8DF;
+}
+.background{
+    background-color: #D6C9A9;
+    width: 1280px;
+    height: 91px;
+    margin-top: 0%;
+}
+
+.menu{
+    margin-left: 25px;
+    margin-top: -5%;
+}
+
+.logo{
+    margin-left: 45%;
+    margin-top: -3%;
+}
+
+.icons{
+   margin-top: -4%;
+   margin-left: 80%;
+  
+} 
+
+/* Питання
+
+Як зробити відстань між інонками? */
